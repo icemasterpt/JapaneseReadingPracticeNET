@@ -1,0 +1,15 @@
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\obj\Debug\JapaneseReadingPractice.csprojAssemblyReference.cache
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\obj\Debug\MainWindow.g.cs
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\obj\Debug\App.g.cs
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\obj\Debug\JapaneseReadingPractice_MarkupCompile.cache
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\obj\Debug\JapaneseReadingPractice_MarkupCompile.lref
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\bin\Debug\JapaneseReadingPractice.exe.config
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\bin\Debug\JapaneseReadingPractice.exe
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\bin\Debug\JapaneseReadingPractice.pdb
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\obj\Debug\MainWindow.baml
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\obj\Debug\JapaneseReadingPractice.g.resources
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\obj\Debug\JapaneseReadingPractice.Properties.Resources.resources
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\obj\Debug\JapaneseReadingPractice.csproj.GenerateResource.cache
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\obj\Debug\JapaneseReadingPractice.csproj.CoreCompileInputs.cache
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\obj\Debug\JapaneseReadingPractice.exe
+c:\users\filip\source\repos\JapaneseReadingPractice\JapaneseReadingPractice\obj\Debug\JapaneseReadingPractice.pdb
